@@ -97,4 +97,4 @@ quedarse corta. La pila dinámica es más flexible y usa solo la memoria necesar
 un pequeño overhead por cada nodo.
 # Conclusión
 
-La pila estática es más rápida y sencilla, pero su tamaño fijo puede desperdiciar memoria o quedarse corta. La pila dinámica es más flexible y usa solo la memoria necesaria, a costa de un pequeño overhead por cada nodo.
+La pila estática es más rápida y sencilla, pero su tamaño fijo puede desperdiciar memoria o quedarse corta. La pila dinámica
